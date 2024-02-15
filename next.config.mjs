@@ -11,7 +11,7 @@ const nextConfig = {
       "http://",
       "flagcdn.com",
       "upload.wikimedia.org",
-      // "dev-user.localbet.xyz",
+      // "website link",
     ],
     formats: ["image/avif", "image/webp"],
   },
